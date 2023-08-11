@@ -1,8 +1,14 @@
 .card{
  width: 40;
 }
-#hi{
+#hello{
 color: rgb(161, 6, 6);
 font-style: italic;
 text-decoration: dashed;
 }
+
+.hi{
+    color: rgb(161, 6, 6);
+    font-style: italic;
+    text-decoration: dashed;
+    }
